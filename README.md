@@ -33,4 +33,6 @@
 
 ## License
 
+MIT
+
 ghhhhhhh
